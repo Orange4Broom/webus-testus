@@ -1,5 +1,5 @@
+/* eslint-disable react/react-in-jsx-scope */
 import { ReactNode } from 'react';
-import React from 'react';
 
 interface DefaultLayoutProps {
   children: ReactNode;

@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+/* eslint-disable react/react-in-jsx-scope */
+import { useState } from 'react';
 import { useLogin } from '../../hooks/useLogin';
 import { useRegistration } from '../../hooks/useRegistration';
 import { useAuthContext } from '../../hooks/useAuthContext';
